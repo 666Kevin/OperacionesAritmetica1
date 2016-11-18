@@ -1,0 +1,25 @@
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.dll
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb
+C:\Clases\Pruebas de Software\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Clases\Pruebas de Software\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Clases\Pruebas de Software\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Clases\Pruebas de Software\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.dll
+C:\Clases\Pruebas de Software\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\YENISSE\Desktop\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.dll
+C:\Users\YENISSE\Desktop\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.dll
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.dll
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb

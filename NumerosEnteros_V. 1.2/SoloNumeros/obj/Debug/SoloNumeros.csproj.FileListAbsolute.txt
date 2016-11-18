@@ -1,0 +1,5 @@
+C:\Users\YENISSE\Desktop\NumerosEnteros\SoloNumeros\bin\Debug\SoloNumeros.dll
+C:\Users\YENISSE\Desktop\NumerosEnteros\SoloNumeros\bin\Debug\SoloNumeros.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\SoloNumeros\obj\Debug\SoloNumeros.csprojResolveAssemblyReference.cache
+C:\Users\YENISSE\Desktop\NumerosEnteros\SoloNumeros\obj\Debug\SoloNumeros.dll
+C:\Users\YENISSE\Desktop\NumerosEnteros\SoloNumeros\obj\Debug\SoloNumeros.pdb

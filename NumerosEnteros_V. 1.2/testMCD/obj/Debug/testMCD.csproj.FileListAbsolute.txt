@@ -1,0 +1,18 @@
+C:\Users\YENISSE\Desktop\NumerosEnteros\testMCD\bin\Debug\testMCD.dll
+C:\Users\YENISSE\Desktop\NumerosEnteros\testMCD\bin\Debug\testMCD.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\testMCD\obj\Debug\testMCD.csprojResolveAssemblyReference.cache
+C:\Users\YENISSE\Desktop\NumerosEnteros\testMCD\obj\Debug\testMCD.dll
+C:\Users\YENISSE\Desktop\NumerosEnteros\testMCD\obj\Debug\testMCD.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\testMCD\bin\Debug\FormularioOperacionesAritmeticas.exe
+C:\Users\YENISSE\Desktop\NumerosEnteros\testMCD\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\YENISSE\Desktop\NumerosEnteros\testMCD\bin\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\testMCD\bin\Debug\OperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\testMCD\bin\Debug\testMCD.dll
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\testMCD\bin\Debug\testMCD.pdb
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\testMCD\bin\Debug\FormularioOperacionesAritmeticas.exe
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\testMCD\bin\Debug\OperacionesAritmeticas.dll
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\testMCD\bin\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\testMCD\bin\Debug\OperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\testMCD\obj\Debug\testMCD.csprojResolveAssemblyReference.cache
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\testMCD\obj\Debug\testMCD.dll
+C:\Clases\Evol. SW\Proyecto_Evolucion SW\NumerosEnteros\testMCD\obj\Debug\testMCD.pdb
