@@ -1,0 +1,83 @@
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe.config
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Properties.Resources.resources
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csproj.GenerateResource.Cache
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.exe
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.FormOperacionesAritmeticas.resources
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\Conti\Documents\Visual Studio 2013\Projects\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe.config
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.exe
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.pdb
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.pdb
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csprojResolveAssemblyReference.cache
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.FormOperacionesAritmeticas.resources
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Properties.Resources.resources
+G:\Pruebas SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csproj.GenerateResource.Cache
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe.config
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.exe
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.FormOperacionesAritmeticas.resources
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Properties.Resources.resources
+C:\Clases\Pruebas de Software\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csproj.GenerateResource.Cache
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe.config
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.exe
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Properties.Resources.resources
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csproj.GenerateResource.Cache
+C:\Users\YENISSE\Desktop\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.FormOperacionesAritmeticas.resources
+C:\Users\YENISSE\Desktop\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe.config
+C:\Users\YENISSE\Desktop\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.exe
+C:\Users\YENISSE\Desktop\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe.config
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.exe
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.FormOperacionesAritmeticas.resources
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Properties.Resources.resources
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csproj.GenerateResource.Cache
+C:\Users\WOW\Desktop\Nueva carpeta\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Operaciones_Aritmeticas.resources
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe.config
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.exe
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Operaciones_Aritmeticas.resources
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.FormOperacionesAritmeticas.resources
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Properties.Resources.resources
+C:\Clases\Evol. SW\Evaluacionfinal_PruebasSW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csproj.GenerateResource.Cache
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe.config
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.exe
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.exe
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\FormularioOperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csprojResolveAssemblyReference.cache
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Operaciones_Aritmeticas.resources
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.FormOperacionesAritmeticas.resources
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.Properties.Resources.resources
+C:\Clases\Evol. SW\Producto Academico N 1\Proyecto_Evolucion SW\NumerosEnteros\FormularioOperacionesAritmeticas\obj\Debug\FormularioOperacionesAritmeticas.csproj.GenerateResource.Cache
